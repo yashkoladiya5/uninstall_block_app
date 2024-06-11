@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227513476886",
+    "project_id": "telecallingme",
+    "storage_bucket": "telecallingme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227513476886:android:3b19fd787419310fc2d237",
+        "android_client_info": {
+          "package_name": "com.app.telecalling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyBnFnauO9_8i-11VUmqY9ebCH3SyRKxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
